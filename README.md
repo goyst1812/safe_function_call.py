@@ -1,0 +1,1 @@
+# safe_function_call.py
